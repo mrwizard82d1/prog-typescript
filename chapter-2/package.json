@@ -1,0 +1,26 @@
+{
+  "name": "chapter-2",
+  "version": "1.0.0",
+  "description": "Code from \"Chapter 2\" of _Programming TypeScript_.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrwizard82d1/prog-typescript.git"
+  },
+  "author": "Lawrence Jones <mrwizard82d1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrwizard82d1/prog-typescript/issues"
+  },
+  "homepage": "https://github.com/mrwizard82d1/prog-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.30.0",
+    "@typescript-eslint/parser": "^5.30.0",
+    "eslint": "^8.18.0",
+    "typescript": "^4.7.4"
+  }
+}
